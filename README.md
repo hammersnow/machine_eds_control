@@ -1,1 +1,1 @@
-# This bash script shows mv3d-eds devices pending and error codes.
+# This bash script shows instant working status and error codes of mv3d-eds devices.
